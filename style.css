@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f1faee;
+}
+.bottle{
+border-radius: 10px;
+width: 400px;
+}
+.text_image_result{
+ border-radius: 10px;
+ width: 600px;
+ height: 590px;
+ box-shadow: 2px 2px 2px gray;
+ border: 0.5px solid gray;
+ padding: 30px;
+ background-color: #a8dadc;
+}
+.bob3{
+background-color: gray;
+width: 450px;
+height: 150px;
+border-radius: 10px;
+padding: 10px;
+background-color: #457b9d;
+}
